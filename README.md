@@ -1,1 +1,1 @@
-https://Dex6354.github.io/MeuTreino/
+https://dex6354.github.io/MeuTreino/
